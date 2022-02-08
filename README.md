@@ -4,7 +4,7 @@
 실전형 리액트 Hooks 10개.
 
 ## Stack
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, React.js
 
 ## Period
 2022.2.8. ~ 2022.2.8. (2h)
