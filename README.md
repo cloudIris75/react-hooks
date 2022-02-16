@@ -7,7 +7,7 @@
 HTML, CSS, JavaScript, React.js
 
 ## Period
-2022.2.8. ~ 2022.2.8. (2h)
+2022.2.8. ~ 
 
 ## Roadmap
 - [X] useState
